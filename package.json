@@ -6,8 +6,7 @@
     "dev": "next dev --turbo",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-      "install": "echo 'Custom install script running...'"
+    "lint": "next lint"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.4.2",
