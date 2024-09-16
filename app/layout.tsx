@@ -145,11 +145,11 @@ const Footer = () => {
     <>
       <footer className="flex   py-[80px]  bg-[#71bff3] rounded-2xl  relative flex-col md:flex-row border border-black px-[80px]">
         <div className="img absolute z-[9999] bottom-0 right-0">
-          <img
+          {/* <img
             className="w-[200px]"
             src="https://headz.design/assets/images/image09.jpg?v=f08fe36e"
             alt=""
-          />
+          /> */}
         </div>
         <div className="left w-full md:w-1/2">
           <div className="txt">
