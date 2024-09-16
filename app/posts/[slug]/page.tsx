@@ -95,7 +95,7 @@ export default async function Page({ params }: { params: { slug: string } }) {
 
                 <div className="bottom  flex-col md:flex-row flex justify-center">
                   <div className="left w-full md:w-1/2 p-10">
-                    <p>餐廳資訊：kmkmlmlkmfbfdbf</p>
+                    <p>餐廳資訊：</p>
                     <p>地址：</p>
                     <p>聯絡電話：</p>
                     <p>FB:</p>
